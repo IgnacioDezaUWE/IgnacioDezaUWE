@@ -1,12 +1,9 @@
-- 👋 Hi, I’m Ignacio @IgnacioDezaUWE Lecturer in Data Science at UWE 
-- 👀 I’m interested in fundamentals of data science, solving very complex problems with data, not afraid of advanced Maths
-- 🌱 I’m currently learning how to apply non-Gaussian statistics to better understand the Stock Market
-- 💞️ I’m looking to collaborate on Data Science Projects, especially in Education
-- 📫 How to reach me: ignacio.deza@uwe.ac.uk, please give me a couple of days to respond
+- 👋 Hi, I’m Ignacio @IgnacioDezaUWE Senior Lecturer in Data Science at UWE 
+- 👀 I’m interested in solving very complex problems with data, and help others to make sense of their datasets
+- 🌱 I’m currently learning how to apply Statistical Physics concepts to the weight matrices in AI, as a way to understand how they work
+- 💞️ I’m happy to collaborate in Data Science Projects, especially those who can't be solved by normal Data Science teams.
+- 📫 How to reach me: ignacio.deza@uwe.ac.uk, or www.linkedin.com/in/ignaciodeza/
 - 😄 Pronouns: he/him but they/them is also good
-- ⚡ Fun fact: I'm also a photographer and not bad at all with the Harmonica. 
+- ⚡ Fun fact: I was in a blues band playing the Harmonica. And I can play the bagpipes! 
 
-<!---
-IgnacioDezaUWE/IgnacioDezaUWE is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+
